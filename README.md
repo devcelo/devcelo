@@ -1,16 +1,21 @@
-## Hi there 👋
+### Opa! Sou eu mesmo Marcelo Soares! 🙋🏻‍♂️
 
-<!--
-**devcelo/devcelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/celo_ok/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]( https://t.me/Devceloo)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1720796572)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Marcelo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devcelo&layout=compact)
+
+## Tecnologias que eu uso no meu dia a dia 
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> 
+<img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+</div><br/>
+
+Estou estudando ads, estou no 3 semestre, amo a tecnologia e estou a procura de novos conhecimentos, atraves da internet e conversando com pessoas experientes, para sempre desenvolver otimos projetos! Amo jogar video games no tempo livre e modestia parte sou bom até rsrs
+
