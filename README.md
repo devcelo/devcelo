@@ -18,5 +18,5 @@
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div><br/>
 
-Estou estudando ads, estou no 3 semestre, amo a tecnologia e estou a procura de novos conhecimentos, atraves da internet e conversando com pessoas experientes, para sempre desenvolver otimos projetos! Amo jogar video games no tempo livre e modestia parte sou bom até rsrs
+Estou estudando ads, estou no 4 semestre, amo a tecnologia e estou a procura de novos conhecimentos, atraves da internet e conversando com pessoas experientes, para sempre desenvolver otimos projetos! Amo jogar video games no tempo livre e modestia parte sou bom até rsrs
 
